@@ -67,7 +67,7 @@ Currently, ZULU finance is in Phase 1. We have finished all the development and 
 
 ### **Contact**
 
-- **Contact Name:** Syouzh
+- **Contact Name:** syouzh
 - **Contact Email:** [info@zulufinance.org](mailto:info@zulufinance.org)
 - **Website:** [https://zulufinance.org/](https://zulufinance.org/)
 
